@@ -10,7 +10,7 @@ public class Calculations {
 		System.out.println("The sum is= "+ sum);
 		
 		//member_B add the feature of subtracting x from y and print the result
-		
+		//g
 		//member_C add the feature of dividing x by y and print the result
 		
 		//member_D add the feature of multiplying x by y and print the result
