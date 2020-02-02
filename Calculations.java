@@ -16,11 +16,13 @@ public class Calculations {
 		System.out.println("The result of division is = "+ division);
 		
 		//member_D add the feature of multiplying x by y and print the result
-		
+		int mul = 2*1;
+		System.out.println("The multiplication result is= "+ mul);
 		
 		
 		//Exercise 5: Spot the issues to be reported
 		addition(4,5); // should print the sum of the values provided
+	)
 		welcome(); // should print the welcome message to the console
 	}
 	
