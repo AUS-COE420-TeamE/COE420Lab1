@@ -17,7 +17,7 @@ public class Calculations {
 		System.out.println("The result of division is = "+ division);
 		
 		//member_D add the feature of multiplying x by y and print the result
-		int mul = 2*1;
+		int mul = x*y;
 		System.out.println("The multiplication result is= "+ mul);
 		
 		
@@ -32,8 +32,8 @@ public class Calculations {
 		return sum; 
 	}
 	
-	public static String welcome() {
-		return "Hello World"; 
+	public static void welcome() {
+		System.out.println("Hello World");
 	}
 
 }
